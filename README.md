@@ -25,7 +25,7 @@ We have three different types of deployment method
 - Gitlab
 - Docker compose
 
-But for these MySQL examples, you can choose Docker compose as your deployment method.
+But for these MySQL + PhpMyAdmin examples, you can choose Docker compose as your deployment method.
 
 ### Step 3: Select Docker compose example
 
