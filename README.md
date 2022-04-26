@@ -15,7 +15,7 @@ Fork this repository to create your own copy that you can modify and use in a CI
 
 ### Step 1: Select CI/CD from left sidebar in app.
 
-Click [here](https://dash.elest.io/deploy?source=cicd) to directly go to the CI/CD
+Click [here](https://dash.elest.io/deploy?source=cicd){:target="_blank" rel="noopener"} to directly go to the CI/CD
 
 ### Step 2: Select Deployment method.
 
