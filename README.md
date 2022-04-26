@@ -5,7 +5,6 @@
 
 Example application and CI/CD pipeline showing how to deploy a MySQL + PhpMyAdmin docker compose to elestio.
 
-<img src="images\screenshot-1.jpg" alt="screenshot of the example app" width="100%" />
 
 ## CI/CD on Elestio
 
