@@ -18,5 +18,5 @@ ports:
     login: ""
     password: ""
 environments:
-  - key: 'SOFTWARE_PASSWORD'
-    value: 'random_password'
+  - key: "SOFTWARE_PASSWORD"
+    value: "random_password"
